@@ -1,0 +1,103 @@
+body {
+    font-family: sans-serif;
+    background-color: mediumslateblue;
+}
+
+nav  {
+background-color: #00ffff;
+border-radius: 100px;
+padding: 25px;
+}
+
+nav a {
+text-decoration: none;
+color:black;
+font-size: 25px;
+}
+
+header {
+background-color: #00BFFF;
+padding: 25px;
+border-radius: 50px;
+}
+
+header a {
+color: blue;
+background-color: white;
+border-radius: 30px;
+}
+
+h1 i {
+color:blue;
+background-color: white;
+ border-radius: 50px;
+ margin: 50px;
+ text-align: center;
+}
+
+ footer p {
+background-color: blue;
+color:white;
+ }
+ .nazvanie1 {
+background-color: white;
+border-radius: 50px;
+padding: 20px;
+color: blue;
+ }
+
+.nazvanie2 {
+background-color: blue;
+border-radius: 50px;
+padding:20px;
+color: white;
+}
+
+.nazvanie3 {
+background-color: white;
+border-radius: 50px;
+padding:20px;
+color: blue;
+}
+
+.nazvanie4 {
+background-color: blue;
+border-radius: 50px;
+padding:20px;
+color:white;
+}
+
+h2 p {
+background-color: green;
+}
+
+.class1 {
+background-color: green;
+color:white;
+}
+
+.class2 {
+background-color: green;
+color:white;
+}
+
+.class3 {
+background-color: green;
+color:white;
+}
+
+.class4 {
+background-color: green;
+color:white;
+}
+
+h2 {
+color: aqua;
+}
+
+p {
+color: aqua;
+}
+
+
+
